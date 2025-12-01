@@ -20,5 +20,6 @@
 -   **Education:** Aiding in research, content creation, and personalized learning.
 
 
+<img width="754" height="416" alt="image" src="https://github.com/user-attachments/assets/ebcfe95b-8b5a-4fc5-82d7-b586bb11433a" />
 
 
