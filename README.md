@@ -23,3 +23,25 @@
 <img width="754" height="416" alt="image" src="https://github.com/user-attachments/assets/ebcfe95b-8b5a-4fc5-82d7-b586bb11433a" />
 
 
+### Steps Involved in Generative AI Learning models
+
+<img width="760" height="401" alt="image" src="https://github.com/user-attachments/assets/b8df07dc-9004-4a2a-8f41-e35da9a9a297" />
+
+<img width="748" height="403" alt="image" src="https://github.com/user-attachments/assets/c040202e-0407-479c-ae1a-88f31c024091" />
+
+<img width="750" height="401" alt="image" src="https://github.com/user-attachments/assets/18b54b60-fd8d-41c0-a51a-3f16cdce62e6" />
+
+<img width="756" height="402" alt="image" src="https://github.com/user-attachments/assets/5fd30aa2-1f19-4743-b38a-2533aa27c509" />
+
+<img width="765" height="404" alt="image" src="https://github.com/user-attachments/assets/3d70632a-cc21-428c-ba86-b7b0273907d2" />
+
+<img width="769" height="410" alt="image" src="https://github.com/user-attachments/assets/5dde212c-b100-49cb-8d22-377503015307" />
+
+<img width="777" height="407" alt="image" src="https://github.com/user-attachments/assets/68640f12-88b6-45ce-865d-ddbeaf02a4ab" />
+
+
+
+
+
+
+
